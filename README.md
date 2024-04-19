@@ -411,7 +411,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-lib-types](https://github.com/keuby/vite-plugin-lib-types) - Generate DTS file while building library.
 - [vite-plugin-minipic](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 - [vite-plugin-robots](https://github.com/kolirt/vite-plugin-robots) - Generating `robots.txt`.
-- [vite-plugin-bundle-monitoring](https://github.com/VanyaMate/vite-plugin-bundle-monitoring) - Plugin to monitor changes in bundle size.
+- [vite-plugin-bundle-monitoring](https://github.com/VanyaMate/vite-plugin-bundle-monitoring) - Monitor changes in bundle size.
 
 #### Transformers
 
